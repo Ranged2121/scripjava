@@ -1,0 +1,19 @@
+function FindCode(block) {block(letter, rate, used, father, code) {
+ this.letter = letter;
+ this.rate = rate;
+ this.used = used;
+ this.father = father;
+ this.code = code;
+}
+
+function FindCode(block) {
+
+ if (block.father].code != '') {
+  block.code = tree[block.father].code + '1';
+ }
+  else {
+ if (tree [block.father].code != '') {
+ block.code = tree[block.father].code + '1';
+ } if (tree [block.father].code != '') {
+  block.code = tree[block.father].code + '1';
+ }
